@@ -31,6 +31,7 @@ npm run build
 - Local admin URL: `http://localhost:4000/pro/`
 - It does not run on GitHub Pages because GitHub Pages only serves static files.
 - Runtime data is stored under `data/` and is git-ignored.
+- Do not use the Hexo Pro "Deploy to GitHub Pages" button in this repo. Publishing is done by `git push` and GitHub Actions.
 
 ## GitHub setup
 

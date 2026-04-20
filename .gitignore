@@ -9,3 +9,4 @@ _multiconfig.yml
 data/
 blogInfoList.json
 _admin-config.yml
+deploy_config.json
