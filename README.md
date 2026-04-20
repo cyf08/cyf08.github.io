@@ -24,6 +24,14 @@ npm run server
 npm run build
 ```
 
+## Hexo Pro
+
+`hexo-pro` is installed for local admin usage with `npx hexo server`.
+
+- Local admin URL: `http://localhost:4000/pro/`
+- It does not run on GitHub Pages because GitHub Pages only serves static files.
+- Runtime data is stored under `data/` and is git-ignored.
+
 ## GitHub setup
 
 1. Create the GitHub repository `cyf08.github.io`.
