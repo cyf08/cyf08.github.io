@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: cyf08 Blog
+title: 与非
 subtitle: ''
-description: 'A blog powered by Hexo and GitHub Pages'
-keywords:
-author: cyf08
+description: '与非的个人博客，记录技术、写作与日常思考。'
+keywords: 技术, 博客, Hexo, Butterfly, 与非
+author: 与非
 language: zh-CN
 timezone: Asia/Shanghai
 

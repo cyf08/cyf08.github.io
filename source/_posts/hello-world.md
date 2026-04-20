@@ -1,38 +1,21 @@
 ---
-title: Hello World
+title: 你好，世界
+date: 2026-04-20 21:00:00
+description: 这是与非博客的第一篇文章，也是新站点的起点。
+tags:
+  - 随笔
+  - 建站
+categories:
+  - 日常记录
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+这是博客正式上线后的第一篇文章。
 
-## Quick Start
+这个站点会主要记录三类内容：
 
-### Create a new post
+- 技术学习中的问题、解决过程和阶段总结
+- 写作过程中值得整理的想法
+- 日常里那些不想被快速遗忘的片段
 
-``` bash
-$ hexo new "My New Post"
-```
+之所以选择自己搭一个博客，而不是只把内容散落在不同平台上，是因为我想保留一块长期、稳定、可以慢慢生长的个人空间。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+如果你也偶然来到这里，希望这些文字能对你有一点点帮助。

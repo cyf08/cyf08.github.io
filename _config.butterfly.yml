@@ -1,0 +1,77 @@
+menu:
+  首页: / || fas fa-house
+  归档: /archives/ || fas fa-box-archive
+  关于: /about/ || fas fa-user
+
+social:
+  fab fa-github: https://github.com/cyf08 || GitHub || "#24292e"
+
+subtitle:
+  enable: true
+  effect: true
+  source: false
+  sub:
+    - 记录技术、写作与日常思考
+    - 保持好奇，持续表达
+    - 做一个长期主义者
+
+index_layout: 3
+
+index_post_content:
+  method: 2
+  length: 160
+
+aside:
+  enable: true
+  hide: false
+  button: true
+  mobile: true
+  position: right
+  display:
+    archive: true
+    tag: true
+    category: true
+  card_author:
+    enable: true
+    description: 喜欢把想法写下来，也喜欢把问题说明白。
+    button:
+      enable: true
+      icon: fab fa-github
+      text: GitHub
+      link: https://github.com/cyf08
+  card_announcement:
+    enable: true
+    content: 欢迎来到与非的个人博客。
+  card_recent_post:
+    enable: true
+    limit: 5
+    sort: date
+  card_categories:
+    enable: true
+    limit: 8
+  card_tags:
+    enable: true
+    limit: 30
+  card_archives:
+    enable: true
+    type: monthly
+    format: YYYY年MM月
+    order: -1
+    limit: 8
+
+footer:
+  owner:
+    enable: true
+    since: 2026
+  copyright:
+    enable: false
+  custom_text: 用 Hexo 与 Butterfly 搭建，内容由 与非 持续更新。
+
+post_copyright:
+  enable: false
+
+display_mode: light
+
+inject:
+  head:
+    - <link rel="stylesheet" href="/css/custom.css">
