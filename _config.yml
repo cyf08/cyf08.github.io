@@ -61,7 +61,4 @@ exclude: null
 ignore: null
 theme: butterfly
 deploy:
-  type: git
-  repo: https://qjn+l5TYzPYdzRkWBcCQr7ct@github.com/cyf08-admin.git
-  branch: main
-  message: 'Site updated: {{ now("YYYY-MM-DD HH:mm:ss") }}'
+  type: ''
