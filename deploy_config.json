@@ -1,0 +1,21 @@
+{
+  "repository": "cyf08-admin",
+  "branch": "main",
+  "message": "Site updated: {{ now(\"YYYY-MM-DD HH:mm:ss\") }}",
+  "token": "qjn+l5TYzPYdzRkWBcCQr7ct",
+  "cloudflare": {
+    "accountId": "",
+    "projectName": "",
+    "apiToken": ""
+  },
+  "edgeone": {
+    "projectName": "",
+    "apiToken": "",
+    "env": "production"
+  },
+  "deployType": "github",
+  "enabledPlatforms": [
+    "github"
+  ],
+  "lastDeployTime": ""
+}
